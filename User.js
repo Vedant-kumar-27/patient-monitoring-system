@@ -1,3 +1,4 @@
+# It is User.js file in the patient monistoring system
 const mongoose = require("mongoose");
 
 const UserSchema = new mongoose.Schema({
