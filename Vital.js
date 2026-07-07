@@ -10,3 +10,4 @@
 // module.exports = mongoose.model("Vital", VitalSchema);
 
 risk: String
+rish2:Arrays
