@@ -84,5 +84,6 @@ The architecture is scalable and production-aligned.
 ```bash
 git clone https://github.com/your-username/remote-patient-monitoring.git
 cd patient-monitoring-system
+//git clone https:// github.com/username/remote-patient-monitoring system.
 
 
